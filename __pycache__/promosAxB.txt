@@ -1,0 +1,4 @@
+1,AxB,PACK TRIPLE PAISAJE,PAISAJE,Banco de Erebor,La Comarca,Edoras
+2,AxB,PACK TRIPLE AVENTURA,AVENTURA,Minas Tirith,El Pony Pisador,Puertas de Moria
+3,AxB,PACK 2X1 DE PAISAJE,PAISAJE,Edoras,La Comarca,NULL
+4,AxB,PACK 2X1 DEGUSTACION,DEGUSTACION,Consejo de Elrond,Isengard,NULL

@@ -1,0 +1,4 @@
+1,Por,PACK AVENTURA,AVENTURA,Puertas de Moria,El Pony Pisador,20
+2,Por, PACK DOBLE AVENTURA,AVENTURA,Minas Tirith,El Pony Pisador,10
+3,Por,PACK SIMPLE DEGUSTACION,DEGUSTACION,Rivendel,NULL,15
+4,Por,PACK AVENTURERO,AVENTURA,Torre de Orthanc,Bolsón Cerrado,10

@@ -1,0 +1,4 @@
+1,Abs,PACK DEGUSTACION,DEGUSTACION,Tienda de Regalos de Elrond,Rivendel,36
+2,Abs,PACK DOBLE PAISAJE,PAISAJE,Edoras,Banco de Erebor,15
+3,Abs,PACK SIMPLE AVENTURA,AVENTURA,NULL,El Pony Pisador,20
+4,Abs,PACK LO MEJOR EN PAISAJE,PAISAJE,Mirador de las Águilas,Bosque Viejo,43

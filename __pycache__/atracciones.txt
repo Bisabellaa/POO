@@ -1,0 +1,14 @@
+1,Minas Tirith,10,2,6,AVENTURA
+2,Banco de Erebor,5,2,25,PAISAJE
+3,Rivendel,3,6.5,150,DEGUSTACION
+4,El Pony Pisador,25,2,15,AVENTURA
+5,La Comarca,5,2,15,PAISAJE
+6,Tienda de Regalos de Elrond,35,1,30,DEGUSTACION
+7,Edoras,12,3,32,PAISAJE
+8,Puertas de Moria,3,4,12,AVENTURA
+9,Torre de Orthanc,15,4,6,AVENTURA
+10,Consejo de Elrond,28,5,25,DEGUSTACION
+11,Mirador de las Águilas,30,9,15,PAISAJE
+12,Bolsón Cerrado,12,4.5,10,AVENTURA
+13,Isengard,8,3,15,DEGUSTACION
+14,Bosque Viejo,17,8.5,12,PAISAJE
